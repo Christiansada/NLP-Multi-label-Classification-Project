@@ -10,6 +10,8 @@ This project aims to classify text data into multiple categories using various d
 - Preprocessing steps included removing duplicate entries, filtering out rows with all-zero labels, and removing punctuation and pure numerical values from the text.
 - The dataset was split into training and testing sets.
 
+Note: to get this data search for SemEval 2018 data on google 
+
 ### Tokenization and Padding
 
 - Tokenization was performed using the Keras Tokenizer to convert text data into sequences of integers.
